@@ -1,6 +1,6 @@
 # SYM
 Semi-annual work in the software engineering course (for the calculation of points and the management of grades of the high school national exams)
-</br></br>
+</br>
 <b>1. Login μαθητη και δηλωση κατευθυνσης.</b>
 ![1](https://user-images.githubusercontent.com/74098652/114327686-c29abe00-9b42-11eb-9277-e06ddd5cea64.jpg)
 </br></br>
